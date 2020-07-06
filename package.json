@@ -1,0 +1,10 @@
+{
+    "name": "encoding-samples",
+    "description": "Markdown documents saved with different encodings that contain specific character tables and text examples",
+    "version": "0.0.1",
+    "author": "dehero <dehero@outlook.com>",
+    "license": "MIT",
+    "files": [
+        "files/**"
+    ]
+}
