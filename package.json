@@ -1,7 +1,7 @@
 {
     "name": "encoding-samples",
     "description": "Markdown documents saved with different encodings that contain specific character tables and text examples",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "keywords": [
         "encoding",
         "sample"
